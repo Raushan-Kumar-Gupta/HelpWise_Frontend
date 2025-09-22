@@ -1,5 +1,5 @@
 // src/components/Chatbot.jsx
-
+import React from 'react';
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   Box, 
