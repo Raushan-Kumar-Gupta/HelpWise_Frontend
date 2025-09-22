@@ -3,7 +3,7 @@ import { Box, CssBaseline, Toolbar } from '@mui/material';
 import Navbar from '../components/Navbar';
 import Drawer from '../components/Drawer';
 import Footer from '../components/Footer';
-import Chatbot from '../components/Chatbot';
+import Chatbot from '../components/Chatbot1';
 import { Outlet, useLocation } from 'react-router-dom';
 
 function Layout({ toggleTheme }) {
